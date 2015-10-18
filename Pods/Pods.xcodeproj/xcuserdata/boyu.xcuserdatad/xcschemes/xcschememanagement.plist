@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CLLocationManager-blocks.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-wisechoice.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-wisechoiceTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-wisechoiceUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1118B8A7D0A184001F60CDBF522AFF82</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1E357CE368FB32622D9B85F7297FA7C1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>64614529C4E1EABF8715F9EC0D1CFB62</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>66EAF0CD67D2AC816F888ED01975B7D2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BB1C643973245D7B55C1D4787A7E3F2B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

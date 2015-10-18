@@ -1,0 +1,10 @@
+PODS:
+  - CLLocationManager-blocks (1.3.3)
+
+DEPENDENCIES:
+  - CLLocationManager-blocks (~> 1.3)
+
+SPEC CHECKSUMS:
+  CLLocationManager-blocks: ae34b44992b3d26de10d27d51043a123444efb1b
+
+COCOAPODS: 0.39.0

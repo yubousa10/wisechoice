@@ -15,6 +15,25 @@
 		AA2EE7861BCADD7500DD1948 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA2EE7841BCADD7500DD1948 /* LaunchScreen.storyboard */; };
 		AA2EE7911BCADD7600DD1948 /* wisechoiceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AA2EE7901BCADD7600DD1948 /* wisechoiceTests.m */; };
 		AA2EE79C1BCADD7600DD1948 /* wisechoiceUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AA2EE79B1BCADD7600DD1948 /* wisechoiceUITests.m */; };
+		AA2EE7C31BCAF3B500DD1948 /* creditcard.plist in Resources */ = {isa = PBXBuildFile; fileRef = AA2EE7C21BCAF3B500DD1948 /* creditcard.plist */; settings = {ASSET_TAGS = (); }; };
+		AA3E06571BD1D9C600BC78BB /* LocationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA3E06561BD1D9C600BC78BB /* LocationViewController.m */; settings = {ASSET_TAGS = (); }; };
+		AA59A15E1BCD5D82009BF63B /* card1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A1531BCD5D82009BF63B /* card1.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A15F1BCD5D82009BF63B /* card2.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A1541BCD5D82009BF63B /* card2.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A1601BCD5D82009BF63B /* card3.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A1551BCD5D82009BF63B /* card3.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A1611BCD5D82009BF63B /* card4.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A1561BCD5D82009BF63B /* card4.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A1621BCD5D82009BF63B /* card5.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A1571BCD5D82009BF63B /* card5.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A1631BCD5D82009BF63B /* card6.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A1581BCD5D82009BF63B /* card6.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A1641BCD5D82009BF63B /* card7.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A1591BCD5D82009BF63B /* card7.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A1651BCD5D82009BF63B /* card8.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A15A1BCD5D82009BF63B /* card8.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A1661BCD5D82009BF63B /* card9.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A15B1BCD5D82009BF63B /* card9.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A1671BCD5D82009BF63B /* card10.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A15C1BCD5D82009BF63B /* card10.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A1681BCD5D82009BF63B /* card11.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A15D1BCD5D82009BF63B /* card11.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A16C1BCD8690009BF63B /* right.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A16B1BCD8690009BF63B /* right.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A1701BCEB7C4009BF63B /* chase_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A16E1BCEB7C4009BF63B /* chase_logo.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A1711BCEB7C4009BF63B /* bank_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A16F1BCEB7C4009BF63B /* bank_logo.png */; settings = {ASSET_TAGS = (); }; };
+		AA59A1741BCED01F009BF63B /* CollectionReusableView.m in Sources */ = {isa = PBXBuildFile; fileRef = AA59A1731BCED01F009BF63B /* CollectionReusableView.m */; settings = {ASSET_TAGS = (); }; };
+		AA59A1761BCED933009BF63B /* citi_logo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AA59A1751BCED933009BF63B /* citi_logo.jpeg */; settings = {ASSET_TAGS = (); }; };
+		CDFC30742DC0C9C6C6185771 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A6E325869B026C5B8B1905B /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +54,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		32F20B89215F7C063EF36AFE /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		5A6E325869B026C5B8B1905B /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA2EE7731BCADD7500DD1948 /* wisechoice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = wisechoice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA2EE7771BCADD7500DD1948 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AA2EE7791BCADD7500DD1948 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +72,27 @@
 		AA2EE7971BCADD7600DD1948 /* wisechoiceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = wisechoiceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA2EE79B1BCADD7600DD1948 /* wisechoiceUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = wisechoiceUITests.m; sourceTree = "<group>"; };
 		AA2EE79D1BCADD7600DD1948 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA2EE7C21BCAF3B500DD1948 /* creditcard.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = creditcard.plist; sourceTree = "<group>"; };
+		AA3E06551BD1D9C600BC78BB /* LocationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocationViewController.h; sourceTree = "<group>"; };
+		AA3E06561BD1D9C600BC78BB /* LocationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocationViewController.m; sourceTree = "<group>"; };
+		AA59A1531BCD5D82009BF63B /* card1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card1.png; sourceTree = "<group>"; };
+		AA59A1541BCD5D82009BF63B /* card2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card2.png; sourceTree = "<group>"; };
+		AA59A1551BCD5D82009BF63B /* card3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card3.png; sourceTree = "<group>"; };
+		AA59A1561BCD5D82009BF63B /* card4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card4.png; sourceTree = "<group>"; };
+		AA59A1571BCD5D82009BF63B /* card5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card5.png; sourceTree = "<group>"; };
+		AA59A1581BCD5D82009BF63B /* card6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card6.png; sourceTree = "<group>"; };
+		AA59A1591BCD5D82009BF63B /* card7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card7.png; sourceTree = "<group>"; };
+		AA59A15A1BCD5D82009BF63B /* card8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card8.png; sourceTree = "<group>"; };
+		AA59A15B1BCD5D82009BF63B /* card9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card9.png; sourceTree = "<group>"; };
+		AA59A15C1BCD5D82009BF63B /* card10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card10.png; sourceTree = "<group>"; };
+		AA59A15D1BCD5D82009BF63B /* card11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card11.png; sourceTree = "<group>"; };
+		AA59A16B1BCD8690009BF63B /* right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = right.png; sourceTree = "<group>"; };
+		AA59A16E1BCEB7C4009BF63B /* chase_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chase_logo.png; sourceTree = "<group>"; };
+		AA59A16F1BCEB7C4009BF63B /* bank_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bank_logo.png; sourceTree = "<group>"; };
+		AA59A1721BCED01F009BF63B /* CollectionReusableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionReusableView.h; sourceTree = "<group>"; };
+		AA59A1731BCED01F009BF63B /* CollectionReusableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionReusableView.m; sourceTree = "<group>"; };
+		AA59A1751BCED933009BF63B /* citi_logo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = citi_logo.jpeg; sourceTree = "<group>"; };
+		F7A7B9747D9C27ED198BE81E /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +100,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDFC30742DC0C9C6C6185771 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +121,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		33EB14943B73B9118EC5CFAC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5A6E325869B026C5B8B1905B /* libPods.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A409C0215FE7AC57A9A88C2A /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F7A7B9747D9C27ED198BE81E /* Pods.debug.xcconfig */,
+				32F20B89215F7C063EF36AFE /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		AA2EE76A1BCADD7500DD1948 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +145,8 @@
 				AA2EE78F1BCADD7600DD1948 /* wisechoiceTests */,
 				AA2EE79A1BCADD7600DD1948 /* wisechoiceUITests */,
 				AA2EE7741BCADD7500DD1948 /* Products */,
+				A409C0215FE7AC57A9A88C2A /* Pods */,
+				33EB14943B73B9118EC5CFAC /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,13 +163,12 @@
 		AA2EE7751BCADD7500DD1948 /* wisechoice */ = {
 			isa = PBXGroup;
 			children = (
-				AA2EE7791BCADD7500DD1948 /* AppDelegate.h */,
-				AA2EE77A1BCADD7500DD1948 /* AppDelegate.m */,
-				AA2EE77C1BCADD7500DD1948 /* ViewController.h */,
-				AA2EE77D1BCADD7500DD1948 /* ViewController.m */,
+				AA2EE7AA1BCAE31A00DD1948 /* image */,
+				AA2EE7A91BCADD8500DD1948 /* ViewController */,
 				AA2EE77F1BCADD7500DD1948 /* Main.storyboard */,
 				AA2EE7821BCADD7500DD1948 /* Assets.xcassets */,
 				AA2EE7841BCADD7500DD1948 /* LaunchScreen.storyboard */,
+				AA2EE7C21BCAF3B500DD1948 /* creditcard.plist */,
 				AA2EE7871BCADD7500DD1948 /* Info.plist */,
 				AA2EE7761BCADD7500DD1948 /* Supporting Files */,
 			);
@@ -117,6 +178,8 @@
 		AA2EE7761BCADD7500DD1948 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AA2EE77A1BCADD7500DD1948 /* AppDelegate.m */,
+				AA2EE7791BCADD7500DD1948 /* AppDelegate.h */,
 				AA2EE7771BCADD7500DD1948 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -140,6 +203,57 @@
 			path = wisechoiceUITests;
 			sourceTree = "<group>";
 		};
+		AA2EE7A91BCADD8500DD1948 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				AA2EE77D1BCADD7500DD1948 /* ViewController.m */,
+				AA2EE77C1BCADD7500DD1948 /* ViewController.h */,
+				AA59A1721BCED01F009BF63B /* CollectionReusableView.h */,
+				AA59A1731BCED01F009BF63B /* CollectionReusableView.m */,
+				AA3E06551BD1D9C600BC78BB /* LocationViewController.h */,
+				AA3E06561BD1D9C600BC78BB /* LocationViewController.m */,
+			);
+			name = ViewController;
+			sourceTree = "<group>";
+		};
+		AA2EE7AA1BCAE31A00DD1948 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				AA59A16D1BCEB79A009BF63B /* logo */,
+				AA2EE7C11BCAE35A00DD1948 /* card */,
+			);
+			name = image;
+			sourceTree = "<group>";
+		};
+		AA2EE7C11BCAE35A00DD1948 /* card */ = {
+			isa = PBXGroup;
+			children = (
+				AA59A16B1BCD8690009BF63B /* right.png */,
+				AA59A1531BCD5D82009BF63B /* card1.png */,
+				AA59A1541BCD5D82009BF63B /* card2.png */,
+				AA59A1551BCD5D82009BF63B /* card3.png */,
+				AA59A1561BCD5D82009BF63B /* card4.png */,
+				AA59A1571BCD5D82009BF63B /* card5.png */,
+				AA59A1581BCD5D82009BF63B /* card6.png */,
+				AA59A1591BCD5D82009BF63B /* card7.png */,
+				AA59A15A1BCD5D82009BF63B /* card8.png */,
+				AA59A15B1BCD5D82009BF63B /* card9.png */,
+				AA59A15C1BCD5D82009BF63B /* card10.png */,
+				AA59A15D1BCD5D82009BF63B /* card11.png */,
+			);
+			name = card;
+			sourceTree = "<group>";
+		};
+		AA59A16D1BCEB79A009BF63B /* logo */ = {
+			isa = PBXGroup;
+			children = (
+				AA59A1751BCED933009BF63B /* citi_logo.jpeg */,
+				AA59A16E1BCEB7C4009BF63B /* chase_logo.png */,
+				AA59A16F1BCEB7C4009BF63B /* bank_logo.png */,
+			);
+			name = logo;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -147,9 +261,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = AA2EE7A01BCADD7600DD1948 /* Build configuration list for PBXNativeTarget "wisechoice" */;
 			buildPhases = (
+				958B7A5D94907007F72C9332 /* Check Pods Manifest.lock */,
 				AA2EE76F1BCADD7500DD1948 /* Sources */,
 				AA2EE7701BCADD7500DD1948 /* Frameworks */,
 				AA2EE7711BCADD7500DD1948 /* Resources */,
+				1648203F27D607F1993176A8 /* Embed Pods Frameworks */,
+				3687E709FEAE477298A5AE8C /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -243,9 +360,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA59A1671BCD5D82009BF63B /* card10.png in Resources */,
+				AA59A1661BCD5D82009BF63B /* card9.png in Resources */,
+				AA59A1601BCD5D82009BF63B /* card3.png in Resources */,
 				AA2EE7861BCADD7500DD1948 /* LaunchScreen.storyboard in Resources */,
+				AA59A1711BCEB7C4009BF63B /* bank_logo.png in Resources */,
+				AA59A1611BCD5D82009BF63B /* card4.png in Resources */,
 				AA2EE7831BCADD7500DD1948 /* Assets.xcassets in Resources */,
+				AA2EE7C31BCAF3B500DD1948 /* creditcard.plist in Resources */,
+				AA59A15E1BCD5D82009BF63B /* card1.png in Resources */,
+				AA59A1701BCEB7C4009BF63B /* chase_logo.png in Resources */,
+				AA59A15F1BCD5D82009BF63B /* card2.png in Resources */,
+				AA59A1621BCD5D82009BF63B /* card5.png in Resources */,
+				AA59A16C1BCD8690009BF63B /* right.png in Resources */,
+				AA59A1641BCD5D82009BF63B /* card7.png in Resources */,
+				AA59A1631BCD5D82009BF63B /* card6.png in Resources */,
+				AA59A1651BCD5D82009BF63B /* card8.png in Resources */,
+				AA59A1681BCD5D82009BF63B /* card11.png in Resources */,
 				AA2EE7811BCADD7500DD1948 /* Main.storyboard in Resources */,
+				AA59A1761BCED933009BF63B /* citi_logo.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,14 +398,64 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1648203F27D607F1993176A8 /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3687E709FEAE477298A5AE8C /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		958B7A5D94907007F72C9332 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		AA2EE76F1BCADD7500DD1948 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				AA2EE77E1BCADD7500DD1948 /* ViewController.m in Sources */,
+				AA59A1741BCED01F009BF63B /* CollectionReusableView.m in Sources */,
 				AA2EE77B1BCADD7500DD1948 /* AppDelegate.m in Sources */,
 				AA2EE7781BCADD7500DD1948 /* main.m in Sources */,
+				AA3E06571BD1D9C600BC78BB /* LocationViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -365,7 +548,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
-				ONLY_ACTIVE_ARCH = YES;
+				ONLY_ACTIVE_ARCH = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -403,6 +586,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				ONLY_ACTIVE_ARCH = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -411,6 +595,7 @@
 		};
 		AA2EE7A11BCADD7600DD1948 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F7A7B9747D9C27ED198BE81E /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = wisechoice/Info.plist;
@@ -422,6 +607,7 @@
 		};
 		AA2EE7A21BCADD7600DD1948 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 32F20B89215F7C063EF36AFE /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = wisechoice/Info.plist;
@@ -498,6 +684,7 @@
 				AA2EE7A21BCADD7600DD1948 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AA2EE7A31BCADD7600DD1948 /* Build configuration list for PBXNativeTarget "wisechoiceTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +693,7 @@
 				AA2EE7A51BCADD7600DD1948 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AA2EE7A61BCADD7600DD1948 /* Build configuration list for PBXNativeTarget "wisechoiceUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +702,7 @@
 				AA2EE7A81BCADD7600DD1948 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

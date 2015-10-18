@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>card11</key>
+	<string>Credit One Bank® Cash Back Rewards</string>
+	<key>card10</key>
+	<string>Plenti℠ Credit Card from Amex</string>
+	<key>card9</key>
+	<string>Discover it®-New! Double Cash Back your first year</string>
+	<key>card8</key>
+	<string>U.S. Bank FlexPerks® Travel Rewards Visa Signature® Card</string>
+	<key>card7</key>
+	<string>BankAmericard Cash Rewards™ Credit Card</string>
+	<key>card6</key>
+	<string>Citi ThankYou® Preferred Card</string>
+	<key>card5</key>
+	<string>Discover it® Miles-Double Miles your first year</string>
+	<key>card4</key>
+	<string>Discover it® Chrome-New! Double Cash Back your first year</string>
+	<key>card3</key>
+	<string>The Amex EveryDay® Preferred Credit Card from American Express</string>
+	<key>card2</key>
+	<string>Citi® Diamond Preferred® Card</string>
+	<key>card1</key>
+	<string>Citi Simplicity® Card</string>
+</dict>
+</plist>
