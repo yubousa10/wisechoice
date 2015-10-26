@@ -5,6 +5,8 @@
 
 pod 'CLLocationManager-blocks', '~> 1.3'
 
+pod 'Foursquare-iOS-API', '~> 2.0'
+
 target 'wisechoice' do
 
 end

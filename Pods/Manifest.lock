@@ -1,10 +1,13 @@
 PODS:
   - CLLocationManager-blocks (1.3.3)
+  - Foursquare-iOS-API (2.0)
 
 DEPENDENCIES:
   - CLLocationManager-blocks (~> 1.3)
+  - Foursquare-iOS-API (~> 2.0)
 
 SPEC CHECKSUMS:
   CLLocationManager-blocks: ae34b44992b3d26de10d27d51043a123444efb1b
+  Foursquare-iOS-API: 724e6781f713cab2df8eef2e78f15c2af6bf6378
 
 COCOAPODS: 0.39.0

@@ -16,7 +16,7 @@
 		AA2EE7911BCADD7600DD1948 /* wisechoiceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AA2EE7901BCADD7600DD1948 /* wisechoiceTests.m */; };
 		AA2EE79C1BCADD7600DD1948 /* wisechoiceUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AA2EE79B1BCADD7600DD1948 /* wisechoiceUITests.m */; };
 		AA2EE7C31BCAF3B500DD1948 /* creditcard.plist in Resources */ = {isa = PBXBuildFile; fileRef = AA2EE7C21BCAF3B500DD1948 /* creditcard.plist */; settings = {ASSET_TAGS = (); }; };
-		AA3E06571BD1D9C600BC78BB /* LocationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA3E06561BD1D9C600BC78BB /* LocationViewController.m */; settings = {ASSET_TAGS = (); }; };
+		AA3E06571BD1D9C600BC78BB /* LocationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA3E06561BD1D9C600BC78BB /* LocationViewController.m */; settings = {ASSET_TAGS = (); COMPILER_FLAGS = "-D'FOURSQUARE_CLIENT_ID=@\"$(FOURSQUARE_CLIENT_ID)\"' -D'FOURSQUARE_CALLBACK_URL=@\"$(FOURSQUARE_CALLBACK_URL)\"' -D'FOURSQUARE_CLIENT_SECRET=@\"$(FOURSQUARE_CLIENT_SECRET)\"'"; }; };
 		AA59A15E1BCD5D82009BF63B /* card1.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A1531BCD5D82009BF63B /* card1.png */; settings = {ASSET_TAGS = (); }; };
 		AA59A15F1BCD5D82009BF63B /* card2.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A1541BCD5D82009BF63B /* card2.png */; settings = {ASSET_TAGS = (); }; };
 		AA59A1601BCD5D82009BF63B /* card3.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A1551BCD5D82009BF63B /* card3.png */; settings = {ASSET_TAGS = (); }; };
@@ -33,6 +33,10 @@
 		AA59A1711BCEB7C4009BF63B /* bank_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = AA59A16F1BCEB7C4009BF63B /* bank_logo.png */; settings = {ASSET_TAGS = (); }; };
 		AA59A1741BCED01F009BF63B /* CollectionReusableView.m in Sources */ = {isa = PBXBuildFile; fileRef = AA59A1731BCED01F009BF63B /* CollectionReusableView.m */; settings = {ASSET_TAGS = (); }; };
 		AA59A1761BCED933009BF63B /* citi_logo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AA59A1751BCED933009BF63B /* citi_logo.jpeg */; settings = {ASSET_TAGS = (); }; };
+		AA7A03631BD56A1A008E4C69 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA7A03621BD56A1A008E4C69 /* CoreGraphics.framework */; };
+		AA7A03651BD56A2E008E4C69 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA7A03641BD56A2E008E4C69 /* Foundation.framework */; };
+		AA7A03671BD56A38008E4C69 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA7A03661BD56A38008E4C69 /* MobileCoreServices.framework */; };
+		AA7A03691BD56A48008E4C69 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA7A03681BD56A48008E4C69 /* UIKit.framework */; };
 		CDFC30742DC0C9C6C6185771 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A6E325869B026C5B8B1905B /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +60,7 @@
 /* Begin PBXFileReference section */
 		32F20B89215F7C063EF36AFE /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		5A6E325869B026C5B8B1905B /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA29DF711BD563A3007FD1BB /* libFoursquare-iOS-API.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libFoursquare-iOS-API.a"; path = "Pods/../build/Debug-iphoneos/libFoursquare-iOS-API.a"; sourceTree = "<group>"; };
 		AA2EE7731BCADD7500DD1948 /* wisechoice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = wisechoice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA2EE7771BCADD7500DD1948 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AA2EE7791BCADD7500DD1948 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -92,6 +97,10 @@
 		AA59A1721BCED01F009BF63B /* CollectionReusableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionReusableView.h; sourceTree = "<group>"; };
 		AA59A1731BCED01F009BF63B /* CollectionReusableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionReusableView.m; sourceTree = "<group>"; };
 		AA59A1751BCED933009BF63B /* citi_logo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = citi_logo.jpeg; sourceTree = "<group>"; };
+		AA7A03621BD56A1A008E4C69 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		AA7A03641BD56A2E008E4C69 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		AA7A03661BD56A38008E4C69 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		AA7A03681BD56A48008E4C69 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		F7A7B9747D9C27ED198BE81E /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -100,6 +109,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA7A03691BD56A48008E4C69 /* UIKit.framework in Frameworks */,
+				AA7A03671BD56A38008E4C69 /* MobileCoreServices.framework in Frameworks */,
+				AA7A03651BD56A2E008E4C69 /* Foundation.framework in Frameworks */,
+				AA7A03631BD56A1A008E4C69 /* CoreGraphics.framework in Frameworks */,
 				CDFC30742DC0C9C6C6185771 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -124,6 +137,11 @@
 		33EB14943B73B9118EC5CFAC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				AA7A03681BD56A48008E4C69 /* UIKit.framework */,
+				AA7A03661BD56A38008E4C69 /* MobileCoreServices.framework */,
+				AA7A03641BD56A2E008E4C69 /* Foundation.framework */,
+				AA7A03621BD56A1A008E4C69 /* CoreGraphics.framework */,
+				AA29DF711BD563A3007FD1BB /* libFoursquare-iOS-API.a */,
 				5A6E325869B026C5B8B1905B /* libPods.a */,
 			);
 			name = Frameworks;
@@ -532,6 +550,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				FOURSQUARE_CALLBACK_URL = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -576,6 +595,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FOURSQUARE_CALLBACK_URL = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -598,8 +618,15 @@
 			baseConfigurationReference = F7A7B9747D9C27ED198BE81E /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FOURSQUARE_CALLBACK_URL = "http://www.wisechoice.com/";
+				FOURSQUARE_CLIENT_ID = J1RQF0PO3ULRJPTPWHIGGSY51NKUCA2OEMWIYKUO4F4V2VB0;
+				FOURSQUARE_CLIENT_SECRET = JGETLTUH0Y22LE4Y44OS4ZII5CT1QLPW34I4JZEJ2H4POD4W;
 				INFOPLIST_FILE = wisechoice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/build/Debug-iphoneos",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = boyu.com.wisechoice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -610,8 +637,15 @@
 			baseConfigurationReference = 32F20B89215F7C063EF36AFE /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FOURSQUARE_CALLBACK_URL = "http://www.wisechoice.com/";
+				FOURSQUARE_CLIENT_ID = J1RQF0PO3ULRJPTPWHIGGSY51NKUCA2OEMWIYKUO4F4V2VB0;
+				FOURSQUARE_CLIENT_SECRET = JGETLTUH0Y22LE4Y44OS4ZII5CT1QLPW34I4JZEJ2H4POD4W;
 				INFOPLIST_FILE = wisechoice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/build/Debug-iphoneos",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = boyu.com.wisechoice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};

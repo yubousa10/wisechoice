@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'FE68499FC0D2FF5C24EEB118'
+               BlueprintIdentifier = '3B142BAA5100C3D219157C24'
                BlueprintName = 'CLLocationManager-blocks'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libCLLocationManager-blocks.a'>

@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Foursquare-iOS-API.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-wisechoice.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -32,27 +37,32 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>1118B8A7D0A184001F60CDBF522AFF82</key>
+		<key>510BE153524E4E73E8B835273FBDE6DC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>1E357CE368FB32622D9B85F7297FA7C1</key>
+		<key>8B0C33B6310BF0915842185262B8E84F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>64614529C4E1EABF8715F9EC0D1CFB62</key>
+		<key>983BA75B6465B12720987A2E5748B5E9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>66EAF0CD67D2AC816F888ED01975B7D2</key>
+		<key>A045D39503C3722B346BCA1F54A7CD57</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>BB1C643973245D7B55C1D4787A7E3F2B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DD1CAD8AD4907FBD5EE2AA57E8BD8F9A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
